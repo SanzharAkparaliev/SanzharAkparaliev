@@ -12,5 +12,4 @@
     <img align="right " src="https://github-readme-stats.vercel.app/api?username=sanzharakparaliev&show_icons=true&locale=en" alt="sanzharakparaliev" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanzharakparaliev&" alt="sanzharakparaliev" /></p>
 
